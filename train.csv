@@ -1,0 +1,738 @@
+Crop,NuContAvailable,YieldUnit,AvMoisture%,AvN%,AvP%,AvK%,YieldUnitWeight(lb)_set
+Acorn,"N,P,K",lb of fruit,27.9,1.364771151,0.109570042,0.747572816,1
+"Alfalfa + Orchardgrass, for hay","N,P",ton,9.7,2.479714286,0.267857143,#DIV/0!,"2,000"
+"Alfalfa + Orchardgrass, for hay (cut 1)","N,P,K",ton,7.95,2.144,0.2,1.49,"2,000"
+"Alfalfa + Smooth Brome, for green chop","N,P,K",ton,77.63,3.322074074,0.310555556,2.8,"2,000"
+"Alfalfa + Smooth Brome, for hay","N,P,K",ton,11.58,2.41770852,0.271053812,1.897746637,"2,000"
+"Alfalfa + Smooth Brome, for hay (cut 1)","N,P,K",ton,10.1,2.192,0.295,1.4,"2,000"
+"Alfalfa + Smooth Brome, for hay (cut 2)","N,P",ton,10.2,2.192,0.21,#DIV/0!,"2,000"
+"Alfalfa + Timothy, for green chop (50% alfalfa)","N,P,K",ton,78.08,3.364748858,0.368824201,2.239360731,"2,000"
+"Alfalfa + Timothy, for hay","N,P,K",ton,10.37,2.172886905,0.211071429,2.16,"2,000"
+"Alfalfa + Timothy, for hay (cut 1)","N,P",ton,9.8,1.792,0.14,#DIV/0!,"2,000"
+"Alfalfa + Timothy, for hay (cut 2)","N,P",ton,9,2.8,0.21,#DIV/0!,"2,000"
+"Alfalfa, for green chop","N,P,K",ton,76.5,3.206196721,0.27897541,2.608032787,"2,000"
+"Alfalfa, for green chop (early bloom)","N,P,K",ton,76.18,3.351777778,0.292777778,2.717777778,"2,000"
+"Alfalfa, for green chop (early bloom, cut 1)","N,P,K",ton,76.1,2.952,0.31,3.1,"2,000"
+"Alfalfa, for green chop (early bloom, cut 2)","N,P,K",ton,74.6,2.864,0.38,2.95,"2,000"
+"Alfalfa, for green chop (early bloom, cut 3)",N,ton,74.35,3.288,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for green chop (full bloom)","N,P,K",ton,75.05,2.796419204,0.270739477,2.890978261,"2,000"
+"Alfalfa, for green chop (full bloom, cut 1)","N,P,K",ton,75.3,2.528,0.4,2.88,"2,000"
+"Alfalfa, for green chop (full bloom, cut 2)",N,ton,71.4,2.256,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for green chop (full bloom, cut 3)",N,ton,71.2,2.208,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for green chop (mid bloom)","N,P,K",ton,75.08,3.158580237,0.29166996,2.713478261,"2,000"
+"Alfalfa, for green chop (mid bloom, cut 1)",N,ton,77.9,2.496,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for green chop (mid bloom, cut 2)","P,K",ton,76.8,#DIV/0!,0.43,3.25,"2,000"
+"Alfalfa, for green chop (pre bloom)","N,P,K",ton,78.34,3.487117588,0.343919598,2.267952261,"2,000"
+"Alfalfa, for green chop (pre bloom, cut 1)","N,P,K",ton,82.9,3.488,0.39,3.4,"2,000"
+"Alfalfa, for green chop (pre bloom, cut 2)","N,P,K",ton,76.95,3.376,0.375,3.39,"2,000"
+"Alfalfa, for green chop (pre bloom, cut 3)",N,ton,76.8,3.92,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for hay","N,P,K",ton,9.65,2.78879558,0.261298343,2.119198895,"2,000"
+"Alfalfa, for hay (cut 1)","N,P,K",ton,9.9,2.616,0.35,2.48,"2,000"
+"Alfalfa, for hay (cut 2)","N,P,K",ton,9.35,2.856,0.285,1.92,"2,000"
+"Alfalfa, for hay (cut 3)","N,P,K",ton,10.3,2.968,0.19,2.47,"2,000"
+"Alfalfa, for hay (early bloom)","N,P,K",ton,10.58,3.054446409,0.228798343,2.344198895,"2,000"
+"Alfalfa, for hay (early bloom, cut 1)","N,P,K",ton,9.3,2.736,0.255,2.465,"2,000"
+"Alfalfa, for hay (early bloom, cut 2)","N,P,K",ton,12,3.168,0.255,2.54,"2,000"
+"Alfalfa, for hay (early bloom, cut 3)","N,P,K",ton,12.95,3.248,0.27,2.84,"2,000"
+"Alfalfa, for hay (full bloom)","N,P,K",ton,11.12,2.618647514,0.238273481,1.764198895,"2,000"
+"Alfalfa, for hay (full bloom, cut 1)","N,P,K",ton,15.25,2.392,0.22,1.99,"2,000"
+"Alfalfa, for hay (full bloom, cut 2)",N,ton,12.7,2.592,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for hay (full bloom, cut 3)",N,ton,12.35,1.96,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for hay (mid bloom)","N,P,K",ton,10.76,2.805646409,0.251298343,1.779198895,"2,000"
+"Alfalfa, for hay (mid bloom, cut 1)","N,P",ton,11.05,2.424,0.25,#DIV/0!,"2,000"
+"Alfalfa, for hay (mid bloom, cut 2)","N,P,K",ton,9.2,2.736,0.31,3.25,"2,000"
+"Alfalfa, for hay (mid bloom, cut 3)",N,ton,11.6,3.008,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for hay (pre bloom)","N,P,K",ton,11.34,3.388963536,0.336160221,2.436160221,"2,000"
+"Alfalfa, for hay (pre bloom, cut 1)","N,P,K",ton,17.4,2.528,0.29,2.8,"2,000"
+"Alfalfa, for hay (pre bloom, cut 2)",N,ton,14,2.496,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for hay (pre bloom, cut 3)",N,ton,15.4,3.168,#DIV/0!,#DIV/0!,"2,000"
+"Alfalfa, for hay (late vegetative, cut 1)","N,P,K",ton,12.4,3.184,0.28,2.8,"2,000"
+"Alfalfa, for hay (late vegetative, cut 2)","N,P,K",ton,13,3.216,0.37,3.39,"2,000"
+"Alfalfa, for hay (late vegetative, cut 3)","N,P",ton,14,3.056,0.22,#DIV/0!,"2,000"
+"Alfalfa, for seed",N,cwt,11.7,6.014795017,#DIV/0!,#DIV/0!,100
+"Alfalfa, for silage (tenth bloom, cut 2)","N,P,K",ton,75.9,3.34,0.38,2.88,"2,000"
+Almonds (without shell),"N,P,K",lb of seed,4.42,3.339610797,0.544046872,0.765850596,1
+Alomond (with shell),N,lb of fruit,15,3.3,#DIV/0!,#DIV/0!,1
+Apple,"N,P,K",lb of fruit ,81.78,0.338793093,0.051779714,0.747809583,48
+Apricot,"N,P,K",lb of fruit ,86.35,1.641025641,0.139194139,2.168498169,24
+"Artichoke-Globe, for bud","N,P,K",lb of fruit ,83,2.541176471,0.509411765,2,23
+"Artichoke-Jerusalum, for tuber","N,P,K",lb of tuber,80.07,1.52,0.303333333,2.016666667,10
+"Asparagus-Green, for shoot or spear (immature)","N,P",lb of stem ,92,5.55,0.69,#DIV/0!,30
+"Asparagus-White, for shoot or spear (immature)","N,P",lb of stem ,93,4.342857143,0.742857143,#DIV/0!,30
+Avocado (all varieties),"N,P,K",lb of fruit ,74.27,1.231247571,0.159347066,2.328021765,55
+Avocado (Florida),"N,P,K",lb of fruit ,79.73,1.255056734,0.192402565,2.407498767,55
+Avocadoe (California),"N,P,K",lb of fruit ,72.56,1.2303207,0.153061224,2.310495627,55
+"Bahiagrass, for green chop","N,P,K",ton,69.7,1.322666667,0.173333333,2.055,"2,000"
+"Bahiagrass, for hay","N,P",ton,9.83,1.52,0.2,#DIV/0!,"2,000"
+"Bahiagrass, for hay (mature)",N,ton,9.1,0.752,#DIV/0!,#DIV/0!,"2,000"
+Banana,"N,P,K",lb of fruit ,74.26,0.64024864,0.077700078,1.538461539,40
+"Barley-2 row, for grain","N,P,K",bu,13.3,2.32,0.35,0.49,48
+"Barley-2 row, for straw","N,P,K",lb straw/bu grain,9.2,0.688,0.08,2.11,
+"Barley-6 row, for grain (excluding Pacific Coast)","N,P,K",bu,11.72,2.109338703,0.419356823,0.537024609,48
+"Barley-6 row, for grain (Pacific coast only)","N,P,K",bu,10.77,1.614054134,0.375691509,0.58,48
+"Barley-6 row, for green chop (boot)","N,P,K",ton,79.65,2.204648649,0.37018018,1.578288288,"2,000"
+"Barley-6 row, for hay","N,P,K",ton,11.28,1.418136564,0.260825991,1.489196035,"2,000"
+"Barley-6 row, for straw","N,P,K",lb straw/bu grain,11.25,0.686047242,0.095555556,1.793888889,
+"Bean, for seed (dry)","N,P,K",cwt,11.4,4.224,0.54,2.69,100
+"Bean-Faba, for pod with seeds (immature)","N,P,K",lb of fruit,81,4.715789474,0.5,1.315789474,1
+"Bean-Kidney, for seed","N,P,K",cwt,10.75,3.985707865,0.443333333,1.066666667,100
+"Bean-Kidney, for straw","N,P,K",lb straw/cwt grain,12.3,1.274971942,0.151967826,1.594927048,
+"Bean-Lima(baby), for pod with seeds","N,P",lb of fruit,69,3.664516129,0.564516129,#DIV/0!,1
+"Bean-Lima, for pod with seeds","N,P,K",lb of fruit,71,3.475862069,0.5,0.896551724,1
+"Bean-Lima, for seed","N,P,K",cwt,9.98,3.594547486,0.408058659,1.854860335,100
+"Bean-Lima, for straw","N,P,K",ton,10.95,1.198629256,0.14295174,1.142390572,"2,000"
+"Bean-Navy, for seed","N,P,K",cwt,10.38,4.028666667,0.608333333,1.432777778,100
+"Bean-Navy, for straw","N,P,K",lb straw/cwt grain,10.93,1.155962589,0.14530116,1.141593715,
+Bean-Snap for seed (dry),N,cwt,10,4,#DIV/0!,#DIV/0!,100
+"Bean-Snap, for pod with seeds (immature)","N,P,K",lb of fruit,87.75,2.995652174,0.498695652,2.304347826,1
+Beechnut (dry),N,lb of nut,6.6,1.062098501,#DIV/0!,#DIV/0!,1
+"Beet-Red Table, for root","N,P,K",lb of root,87.46,2.145927273,0.323538462,2.457552389,25
+"Beet-Red Table, for top","N,P,K",lb of leaf,87.95,3.686,0.44,6.26,35
+"Bentgrass-Colonial, for hay","N,P,K",ton,13.1,1.136,0.2,1.6,"2,000"
+"Bermudagrass, for green chop","N,P,K",ton,70.88,1.878,0.1925,1.9575,"2,000"
+"Bermudagrass, for green chop (early to mid bloom)","N,P,K",ton,68.33,1.735047619,0.21,1.735714286,"2,000"
+"Bermudagrass, for green chop (full bloom to mature)","N,P,K",ton,68.33,1.518380952,0.19,1.3,"2,000"
+"Bermudagrass, for green chop (pre bloom)","N,P,K",ton,75,2.75,0.23,2.13,"2,000"
+"Bermudagrass, for hay","N,P,K",ton,9.05,1.374556169,0.189986188,1.549765193,"2,000"
+"Bermudagrass, for hay (early to mid bloom)",N,ton,11.05,1.61,#DIV/0!,#DIV/0!,"2,000"
+"Bermudagrass, for hay (full bloom to mature)",N,ton,11.4,1.198,#DIV/0!,#DIV/0!,"2,000"
+"Bermudagrass, for hay (pre bloom)",N,ton,12.2,2.354,#DIV/0!,#DIV/0!,"2,000"
+Blackberry,"N,P,K",lb of fruit ,85.64,0.802228412,0.146239554,1.364902507,11
+Blackeye pea or Cowpea or Southern Pea,"N,P,K",cwt,85,3.52,0.52,1.466666667,100
+Blueberry,"N,P,K",lb of fruit ,84.61,0.696556205,0.064977258,0.578297596,11
+"Bluegrass, for green chop","N,P,K",ton,68.85,2.913907285,0.430463576,1.953642384,"2,000"
+"Bluegrass, for green chop (early bloom)","N,P,K",ton,64.3,2.352,0.29,2.14,"2,000"
+"Bluegrass, for green chop (full bloom)","N,P,K",ton,67.1,1.168,0.27,1.37,"2,000"
+"Bluegrass, for green chop (mid bloom)","N,P,K",ton,70.7,2,0.31,1.97,"2,000"
+"Bluegrass, for hay","N,P,K",ton,10.3,1.76,0.27,1.72,"2,000"
+"Bluegrass, for hay (full bloom)",N,ton,11.1,1.68,#DIV/0!,#DIV/0!,"2,000"
+"Bluegrass-Kentucky, for green chop","N,P,K",ton,70.47,2.603302428,0.396821192,1.967880795,"2,000"
+"Bluegrass-Kentucky, for green chop (early bloom)","N,P,K",ton,65.07,2.656,0.37,2.01,"2,000"
+"Bluegrass-Kentucky, for green chop (full bloom)","N,P,K",ton,65.35,2.115384615,0.282362637,2.005494506,"2,000"
+"Bluegrass-Kentucky, for green chop (mature)",N,ton,66.6,1.285,#DIV/0!,#DIV/0!,"2,000"
+"Bluegrass-Kentucky, for green chop (mid bloom)","N,P,K",ton,69.38,2.298424242,0.31,1.99,"2,000"
+"Bluegrass-Kentucky, for hay","N,P,K",ton,10.95,1.602331096,0.283003356,1.922002237,"2,000"
+"Bluegrass-Kentucky, for hay (early bloom)",N,ton,10,1.952,#DIV/0!,#DIV/0!,"2,000"
+"Bluegrass-Kentucky, for hay (full bloom)","N,P,K",ton,7.9,1.424,0.27,1.52,"2,000"
+"Bluegrass-Kentucky, for hay (mature)","N,P,K",ton,11.86,1.006403666,0.229773769,1.698825888,"2,000"
+"Bluegrass-Kentucky, for hay (mid bloom)","N,P",ton,13.45,1.723,0.24,#DIV/0!,"2,000"
+"Bluestem, for green chop","N,P,K",ton,60.35,1.346486804,0.146627566,1.348973607,"2,000"
+"Bluestem, for green chop (early bloom)",N,ton,65.8,1.68,#DIV/0!,#DIV/0!,"2,000"
+"Bluestem, for green chop (full bloom)","N,P",ton,29.6,#DIV/0!,0.13,#DIV/0!,"2,000"
+"Bluestem, for green chop (mature)","N,P,K",ton,42.52,1.009433071,0.126948819,0.51,"2,000"
+"Bluestem, for hay",N,ton,10.83,0.896267898,#DIV/0!,#DIV/0!,"2,000"
+"Bluestem, for hay (early bloom)",N,ton,20,1.4,#DIV/0!,#DIV/0!,"2,000"
+"Bluestem, for hay (full bloom)",N,ton,20,1.1,#DIV/0!,#DIV/0!,"2,000"
+"Bluestem, for hay (mature)",N,ton,20,0.7,#DIV/0!,#DIV/0!,"2,000"
+"Brazilnut (dry, unblanched)","N,P,K",lb of nut,3.34,2.373680944,0.620732464,0.620732464,1
+Breadfruit,"N,P,K",lb of fruit ,70.65,0.58330494,0.102214651,1.669505963,15
+"Broccoli, for stem",N,lb of stem ,54.9,3.376,#DIV/0!,#DIV/0!,23
+"Broccoli, for stem and immature floral parts","N,P,K",lb of stem ,89.7,5.646666667,0.753333333,3.545,23
+"Bromegrass, for green chop","N,P,K",ton,64.4,2.144,0.285,2.19,"2,000"
+"Bromegrass, for green chop (late bloom)",N,ton,72.6,1.792,#DIV/0!,#DIV/0!,"2,000"
+"Bromegrass, for green chop (mature)","N,P,K",ton,44,1.024,0.26,1.25,"2,000"
+"Bromegrass, for hay","N,P,K",ton,8.93,1.530666667,0.16,1.64,"2,000"
+"Bromegrass, for hay (early bloom)","N,P,K",ton,7.1,1.736,0.325,1.91,"2,000"
+"Bromegrass, for hay (mature)","N,P,K",ton,8.63,1.061333333,0.086666667,1.9,"2,000"
+"Bromegrass, for seed","N,K",cwt,55.8,1.552,#DIV/0!,0.93,100
+"Bromegrass-Smooth, for green chop","N,P,K",ton,67.6,2.176,0.32,3.16,"2,000"
+"Bromegrass-Smooth, for green chop (full bloom)","N,P,K",ton,71.3,1.885777778,0.28,2.33,"2,000"
+"Bromegrass-Smooth, for green chop (mature)","N,P,K",ton,45.5,0.836264151,0.19245283,0.34,"2,000"
+"Bromegrass-Smooth, for green chop (mid bloom)",N,ton,70,2.24,#DIV/0!,#DIV/0!,"2,000"
+"Bromegrass-Smooth, for green chop (pre bloom)",N,ton,74.7,3.024,#DIV/0!,#DIV/0!,"2,000"
+"Bromegrass-Smooth, for hay","N,P,K",ton,10.48,2.027342342,0.230990991,2.203761261,"2,000"
+"Bromegrass-Smooth, for hay (full bloom)","N,K",ton,10.63,1.661863014,#DIV/0!,1.43,"2,000"
+"Bromegrass-Smooth, for hay (mature)","N,P,K",ton,6.83,0.98,0.192765957,2.305,"2,000"
+"Bromegrass-Smooth, for hay (mid bloom)","N,P,K",ton,12.4,1.968,0.28,1.99,"2,000"
+"Bromegrass-Smooth, for hay (late vegetative)","N,P,K",ton,8.8,3.152,0.46,3.41,"2,000"
+"Bromegrass-Smooth, for hay (pre bloom)",N,ton,9.7,1.93145515,#DIV/0!,#DIV/0!,"2,000"
+"Bromegrsss, for hay (late bloom)","N,P,K",ton,12.9,1.192,0.35,2.32,"2,000"
+"Brussel Sprouts, for bud","N,P,K",lb of fruit ,86.6,4.981333333,0.5125,3.25,25
+"Buckwheat (ordinary cultivars), for grain","N,P,K",bu,12.2,1.937932723,0.360568182,0.510340909,48
+"Buckwheat (ordinary cultivars), for straw","N,P,K",ton,11.32,0.791639892,0.101286682,2.619334086,"2,000"
+Butternut (dry),"N,P,K",lb of nut,3.34,4.121663563,0.461411132,0.435547279,1
+"Cabbage, for head (with outer leaves)","N,P,K",lb of leaf,90.8,3.454468085,0.354787234,2.727730497,50
+"Cabbage, for head (without outer leaves)","N,P,K",lb of leaf,91.7,3.034245614,0.384912281,3.163157895,50
+"Cabbage, for waste (outer leaves)","N,P",lb of leaf,85.75,2.664556962,0.21,#DIV/0!,1
+Cabbage-Chinese,"N,P,K",lb of leaf,93,3.085714286,0.485714286,2.928571429,40
+Cabbage-Red,"N,P,K",lb of leaf,92,2.8,0.525,2.375,50
+Cabbage-White,"N,P,K",lb of leaf,92,2.4,0.425,2.75,50
+"Canarygrass-Reed, for green chop","N,P,K",ton,75.8,2.424,0.33,3.64,"2,000"
+"Canarygrass-Reed, for green chop (early bloom)","N,P",ton,76.1,2.12,0.2,#DIV/0!,"2,000"
+Cherry (sweet),"N,P,K",lb of fruit ,81.38,1.073960499,0.098752599,1.164241164,18
+Chestnut-Chinese,"N,P,K",lb of fruit ,43.95,1.198929527,0.171275647,0.79750223,18
+Chestnut-European,"N,P,K",lb of fruit,48.65,0.754040896,0.181110029,1.008763389,1
+Chestnut-Japanese,"N,P,K",lb of fruit,61.41,0.932884167,0.186576833,0.852552475,1
+"Chicory, for green chop",N,ton,82.6,0.0352,#DIV/0!,#DIV/0!,"2,000"
+Chive,"N,P,K",lb of leaf,92,5.6,0.6375,3.125,1
+"Clover + Timothy, for hay","N,P,K",ton,11.1,1.488,0.17,1.81,"2,000"
+"Canarygrass-Reed, for hay (vegetative)","N,P",ton,8.25,2.64,0.24,#DIV/0!,"2,000"
+"Canola, for seed","N,P,K",cwt,8.93,3.888736648,0.62,0.98,100
+"Canola, for straw",N,lb straw/cwt grain,20.3,0.56,#DIV/0!,#DIV/0!,
+Carambola,"N,P,K",lb of fruit ,90.92,0.95154185,0.176211454,1.795154185,22
+Carissa,"N,P,K",lb of fruit,84.17,0.505369551,0.044219836,1.642451042,1
+"Carrot, for root","N,P,K",lb of root,88,1.510773109,0.328355742,2.430168067,25
+"Canarygrass-Reed, for green chop (mature)","N,P",ton,70,1.248,0.2,#DIV/0!,"2,000"
+"Canarygrass-Reed, for green chop (mid bloom)","N,P,K",ton,74.7,1.984,0.28,2.4,"2,000"
+"Canarygrass-Reed, for green chop (vegetative)","N,P,K",ton,76.25,2.528,0.4,3.31,"2,000"
+"Canarygrass-Reed, for hay","N,P,K",ton,10.97,1.701333333,0.283333333,2.99,"2,000"
+"Canarygrass-Reed, for hay (early bloom)","N,P,K",ton,8.1,2.184,0.47,2.62,"2,000"
+"Canarygrass-Reed, for hay (mature)","N,P",ton,7.9,1.424,0.145,#DIV/0!,"2,000"
+"Canarygrass-Reed, for hay (mid bloom)","P,K",ton,8.1,#DIV/0!,0.31,2.07,"2,000"
+"Carrot, for top","N,P,K",lb of stem and leaf,83.83,2.349666667,0.1875,1.875,1
+"Cauliflower, for immature inflorescence","N,P,K",lb of fruit ,90.88,4.42631579,0.664473684,3.22,50
+Celery-Green,"N,P,K",lb of stem ,94.55,2.424,0.66,4.8,60
+Celery-Self-blanching,"N,P,K",lb of stem ,96,2.8,0.675,4,60
+"Chard-Swiss, for immature leaf","N,P,K",lb of leaf,92,3.6,0.575,3,35
+Cherimoya,"N,P",lb of fruit,73.5,0.78490566,0.150943396,#DIV/0!,1
+"Cherry (sour, red)","N,P,K",lb of fruit ,86.13,1.153568854,0.10814708,1.247296323,18
+"Clover-Alsike, for green chop","N,P,K",ton,77.2,2.8876,0.285681818,2.7,"2,000"
+"Clover-Alsike, for green chop (full bloom)","N,P,K",ton,75.87,2.496063492,0.260777509,2.582372881,"2,000"
+"Clover-Alsike, for green chop (mid bloom)","N,P,K",ton,76.4,2.512,0.25,2.58,"2,000"
+"Clover-Alsike, for hay","N,P,K",ton,12.56,2.266845444,0.254679415,2.48116423,"2,000"
+"Clover-Alsike, for hay (early bloom)",N,ton,17.85,2.632,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Alsike, for hay (full bloom)","N,P,K",ton,10.35,2.362247191,0.280898876,2.550561798,"2,000"
+"Clover-Alsike, for hay (mid bloom)","N,P,K",ton,11,2.416,0.28,2.55,"2,000"
+"Clover-Crimson, for green chop","N,P,K",ton,80.78,2.737579888,0.275356081,3.100862069,"2,000"
+"Clover-Crimson, for green chop (late bloom)",N,ton,84.1,2.816,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Crimson, for hay","N,P,K",ton,11.75,2.654096389,0.224392347,2.759329609,"2,000"
+"Clover-Crimson, for hay (early bloom)",N,ton,15.1,3.776,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Crimson, for hay (late bloom)",N,ton,13.9,2.624,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Red + Grass, for hay","N,P,K",ton,11.6,2.272,0.23,1.42,"2,000"
+"Clover-Red + Grass, for hay (full bloom)",N,ton,11.3,2.528,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Red + Grass, for hay (mature)","N,P",ton,8.6,1.776,0.25,#DIV/0!,"2,000"
+"Clover-Red + Grass, for hay (mid bloom)","N,P,K",ton,10.8,2.656,0.23,1.59,"2,000"
+"Clover-Red + Timothy, for hay","P,K",ton,9.6,#DIV/0!,0.17,1.52,"2,000"
+"Clover-Red, for green chop","N,P,K",ton,77.5,2.921061225,0.29372449,2.401632653,"2,000"
+"Clover-Red, for green chop (early bloom)","N,P,K",ton,80.15,3.104,0.38,2.49,"2,000"
+"Clover-Red, for green chop (full bloom)","N,P,K",ton,73.58,2.374716484,0.284917582,1.964505495,"2,000"
+"Clover-Red, for green chop (late vegetative)",N,ton,75,3.4,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Red, for green chop (mid bloom)","N,P,K",ton,74.27,2.424986301,0.284863014,1.98,"2,000"
+"Clover-Red, for hay","N,P,K",ton,13.95,2.507601359,0.261625142,1.887157418,"2,000"
+"Clover-Red, for hay (early bloom)","N,P,K",ton,12.53,2.394049187,0.309455165,1.909551646,"2,000"
+"Clover-Red, for hay (full bloom)","N,P,K",ton,13.55,2.42703689,0.249455165,1.859701097,"2,000"
+"Clover-Red, for hay (late vegetative)",N,ton,15,3.35,#DIV/0!,#DIV/0!,"2,000"
+"Clover-Red, for hay (mature)","N,P,K",ton,8.8,1.936,0.21,1.7,"2,000"
+"Clover-Red, for hay (mid bloom)","N,P,K",ton,11.7,2.458049187,0.279455165,1.553034431,"2,000"
+"Clover-Red, for seed","N,P",cwt,12.23,5.892571429,0.61,#DIV/0!,100
+"Clover-White, for green chop","N,P,K",ton,81.9,4.255685393,0.473904494,2.221207865,"2,000"
+"Clover-White, for green chop (full bloom)","N,P",ton,82.1,4.528,0.44,#DIV/0!,"2,000"
+"Clover-White, for hay","N,P,K",ton,9.73,3.089409091,0.352045455,2.25,"2,000"
+"Clover-White, for hay (full bloom)",N,ton,7.6,3.216,#DIV/0!,#DIV/0!,"2,000"
+"Clover-White, for hay (late bloom)",N,ton,12.4,2.768,#DIV/0!,#DIV/0!,"2,000"
+"Clover-White, for hay (mature)",N,ton,7.8,2.256,#DIV/0!,#DIV/0!,"2,000"
+"Clover-White-Ladino type + Grass, for green chop","N,P",ton,80,2.8,0.4,#DIV/0!,"2,000"
+"Clover-White-Ladino type + Grass, for green chop (early bloom)",N,ton,80,2.448,#DIV/0!,#DIV/0!,"2,000"
+"Clover-White-Ladino type + Grass, for hay","N,P,K",ton,11.25,2.918278596,0.227587769,1.962627407,"2,000"
+"Clover-White-Ladino type + Grass, for hay (mature)","N,P,K",ton,8.5,1.808,0.22,1.75,"2,000"
+"Clover-White-Ladino type + Timonth, for silage","N,P,K",ton,70.6,3.168,0.2,2.22,"2,000"
+"Clover-White-Ladino type, for green chop","N,P,K",ton,80.94,3.953580723,0.410421687,1.94936747,"2,000"
+"Clover-White-Ladino type, for green chop (early bloom)","P,K",ton,64.6,#DIV/0!,0.31,3.17,"2,000"
+"Clover-White-Ladino type, for hay","N,P,K",ton,10.82,3.324152957,0.323149297,2.431145251,"2,000"
+"Clover-White-Ladino type, for hay (early bloom)","N,P",ton,7.57,3.52959276,0.31,#DIV/0!,"2,000"
+"Clover-White-Ladino type, for hay (mature)","N,P,K",ton,8.9,2.528,0.25,2.16,"2,000"
+"Coconut, for meat","N,P,K",lb of fruit ,46.99,1.005093379,0.213167327,0.671571402,40
+"Coconut, for milk","N,P,K",lb of fruit ,67.62,1.131562693,0.308832613,0.812229771,40
+"Corn-Field, for grain (shelled, yellow dent, grade #1)","N,P,K",bu,13.52,1.637313016,0.312586636,0.344444444,56
+"Corn-Field, for silage (dough stage)","N,P,K",ton,71.2,1.2356,0.185,1.04,"2,000"
+"Corn-Field, for silage (mature)","N,P,K",ton,70.08,1.295144928,0.378405797,1.035652174,"2,000"
+"Corn-Field, for silage (milk stage)","N,P,K",ton,76.87,1.418666667,0.24,1.465,"2,000"
+"Corn-Field, for stover (yield less than 95 bu/acre, mature, without ear, dry)","N,P,K",lb stover/bu grain,13.3,0.983381898,0.099834437,1.503647903,
+"Corn-Field, for stover (yield more than 95 bu/acre, mature, without ear, dry)","N,P,K",lb stover/bu grain,13.3,0.983381898,0.099834437,1.503647903,
+"Corn-Popcorn, for grain","N,P",bu,10.1,2.047111111,0.328055556,#DIV/0!,50
+"Corn-Popcorn, for stover (mature, without ear, dry)","N,P,K",lb stover/bu grain,12.73,0.969842531,0.099779249,1.521530537,
+"Corn-Sweet, for ears with husk (immature)",N,lb of fruit ,64.85,1.611439153,#DIV/0!,#DIV/0!,50
+"Corn-Sweet, for grain (dry)","N,P",lb of caryopsis,9.07,2.005333333,0.383333333,#DIV/0!,1
+"Corn-Sweet, for stover (without ear and husk, immature)",N,ton,76.54,1.202660465,#DIV/0!,#DIV/0!,"2,000"
+"Corn-Sweet, for stover (without ear and husk, mature, very dry)","N,P,K",lb stover/bu grain,9.4,1.037527594,0.099337748,1.644591612,
+"Cotton, for lint without seed or cotton lint",N,lb of seed,9,0.196,#DIV/0!,#DIV/0!,1
+"Cotton, for seed with lint or seed cotton","N,P,K",lb of seed and lint,7.8,3.296,0.41,0.49,1
+"Cotton, for seed without lint","N,P,K",lb of seed,8.38,3.770842503,0.734516361,1.179137001,1
+"Cotton, for stalks (dry)",N,lb straw/lb seed cotton,7.7,0.985915493,#DIV/0!,#DIV/0!,
+"Cowpea, for hay","N,P,K",ton,9.6,2.966387597,0.323427464,2.39,"2,000"
+"Cowpea, for seed","N,P,K",lb of seed,10.65,4.134561798,0.526713483,1.327668539,1
+"Cowpea, for straw",N,lb straw/lb seed,8.94,1.126869749,#DIV/0!,#DIV/0!,
+Crabapple,"N,P,K",lb of fruit,78.94,0.303893637,0.071225071,0.921177588,1
+Cranberry,"N,P,K",lb of fruit ,86.54,0.46359584,0.066864785,0.527488856,18
+"Cucumber, for fruit","N,P,K",lb of fruit ,95.5,2.5,0.525,4.25,55
+Cup plant,"N,P,K",ton,71,3,0.05,3,"2,000"
+Currant-European black,"N,P,K",lb of fruit ,81.96,1.241685144,0.327050998,1.784922395,11
+Currants-Red & White,"N,P,K",lb of fruit ,83.95,1.395638629,0.274143302,1.713395639,11
+Custard-Apple,"N,P,K",lb of fruit,71.5,0.954385965,0.073684211,1.340350877,1
+"Date palm, for fruit","N,P,K",lb of fruit ,22.5,0.406709677,0.051612903,0.842580645,15
+"Eggplant, for fruit","N,P,K",lb of fruit ,93,2.514285714,0.313571429,3,33
+Elderberry,"N,P,K",lb of fruit ,79.8,0.522772277,0.193069307,1.386138614,11
+"Elephantgrass, for silage","N,P",ton,74.7,0.768,0.31,#DIV/0!,"2,000"
+"Elephantgrass, for silage (mature)","N,P,K",ton,70.45,0.682547264,0.3,3.18,"2,000"
+"Elephantgrass, for silage (vegetative)","N,P,K",ton,79.8,0.888174204,0.44,2.32,"2,000"
+"Endive (Chicory), for immature leaf","N,P,K",lb of leaf,95,4.16,0.45,5.6,25
+"Escarole, for leaf","N,P,K",lb of leaf,94,3.2,0.233333333,4,25
+"Fescue, for green chop","N,P",ton,64,1.161777778,0.25,#DIV/0!,"2,000"
+"Fescue, for green chop (early bloom)","N,P,K",ton,71,2.36,0.37,1.92,"2,000"
+"Fescue, for green chop (early vegetative)","N,P,K",ton,73.9,2.752,0.4,2.13,"2,000"
+"Fescue, for green chop (late bloom)",N,ton,64,1.536,#DIV/0!,#DIV/0!,"2,000"
+"Fescue, for green chop (mature)",N,ton,64,1.072,#DIV/0!,#DIV/0!,"2,000"
+"Fescue, for green chop (over ripe)","N,P,K",ton,64,0.608,0.11,0.9,"2,000"
+"Fescue, for hay",N,ton,10,1.511111111,#DIV/0!,#DIV/0!,"2,000"
+"Fescue, for hay (early bloom)","N,P,K",ton,11.95,1.776,0.24,1.7,"2,000"
+"Fescue, for hay (early vegetative)","N,P,K",ton,9,1.984,0.36,2.3,"2,000"
+"Fescue, for hay (late vegetative)","N,P,K",ton,7.3,2.896,0.34,2,"2,000"
+"Fescue-Meadow, for hay",N,ton,11.6,1.194570136,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop","N,P",ton,70.5,2.336,0.37,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (early bloom)","N,P",ton,71.4,2.672,0.37,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (early bloom) (Pacific coast)",N,ton,71.4,2.176,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (early vegetative)","N,P,K",ton,73.2,3.376,0.39,4.48,"2,000"
+"Fescue-Tall, for green chop (full bloom) (Pacific coast)",N,ton,75,1.44,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (late vegetative)","N,P",ton,73.7,3.218,0.39,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (late vegetative) (Pacific coast)",N,ton,76.1,2.896,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (mature)","N,P,K",ton,75,1.1,0.25,1.82,"2,000"
+"Fescue-Tall, for green chop (mature) (Pacific coast)",N,ton,75,1.072,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (mid bloom)","N,P,K",ton,75,1.7,0.29,2.06,"2,000"
+"Fescue-Tall, for green chop (mid bloom) (Pacific coast)",N,ton,75,1.68,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for green chop (Pacific coast)",N,ton,70.5,1.856,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for hay (early bloom)","N,P,K",ton,8,3.144,0.26,1.96,"2,000"
+"Fescue-Tall, for hay (early vegetative)","N,P,K",ton,7.9,3.248,0.51,2.36,"2,000"
+"Fescue-Tall, for hay (full bloom)","N,P,K",ton,8.4,2.312,0.32,2.36,"2,000"
+"Fescue-Tall, for hay (full bloom) (Pacific coast)",N,ton,8.4,0.752,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for hay (late vegetative)",N,ton,15,3.062,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for hay (late vegetative) (Pacific coast)","N,P",ton,4.4,2.144,0.24,#DIV/0!,"2,000"
+"Fescue-Tall, for hay (mature)","N,P,K",ton,12.5,1.714666667,0.3,1.96,"2,000"
+"Fescue-Tall, for hay (mid bloom)","N,P,K",ton,11.4,2.174666667,0.29,2.06,"2,000"
+"Fescue-Tall, for hay (over ripe)",N,ton,8,1.448,#DIV/0!,#DIV/0!,"2,000"
+"Fescue-Tall, for hay (Pacific coast)","N,P",ton,11,1.392,0.24,#DIV/0!,"2,000"
+Fig,"N,P,K",lb of fruit ,79.11,0.57443753,0.067017712,1.110579225,8
+"Filbert or Hazelnut, dry","N,P,K",lb of nut,5.42,2.205963206,0.329879467,0.470501163,1
+"Flax, for seed","N,P,K",bu,6.14,3.703563326,0.566092751,0.844072495,56
+"Flax, for straw","N,P,K",lb straw/bu grain,6.94,1.112342909,0.084439655,1.741422414,
+"Gamagrass-Eastern, for hay (inflorescence to anthesis, cut 1)","N,P,K",ton,10.85,1.996,0.265,2.02,"2,000"
+"Gamagrass-Eastern, for hay (seed ripening, cut 1)","N,P,K",ton,10.85,1.685,0.265,2.02,"2,000"
+"Gamagrass-Eastern, for hay (vegetative, cut>1)","N,P,K",ton,10.85,1.69212,0.395,2.64,"2,000"
+"Gamagrass-Eastern, for hay (boot, cut 1)","N,P,K",ton,10.85,2.28,0.265,2.02,"2,000"
+"Gamagrass-Eastern, for hay (maturity, cut 1)","N,P,K",ton,10.85,1.51,0.095,3.06,"2,000"
+Garlic,"N,P,K",lb of fruit ,61,2.625641026,0.44,1.384615385,30
+Ginkgo Nut or Maidenhair Tree Nut,"N,P,K",lb of fruit,55.2,1.542857143,0.276785714,1.138392857,1
+Gooseberry,"N,P,K",lb of fruit ,87.87,1.16075845,0.222588623,1.632316571,11
+Grape-American type,"N,P,K",lb of fruit,80.65,0.569518717,0.053475936,1.021390374,1
+Grape-European type,"N,P,K",lb of fruit,80.28,0.571604938,0.066872428,0.951646091,1
+Grapefruit-Pink & Red (all areas),"N,P,K",lb of fruit ,91.38,1.020881671,0.104408353,1.496519722,65
+Grapefruit-Pink & Red (California & Arizona),"N,P,K",lb of fruit ,89.31,0.748362956,0.112254443,1.375116932,65
+Grapefruit-Pink & Red (Florida),"N,P,K",lb of fruit ,91.56,1.042654028,0.106635071,1.504739337,80
+"Grapefruit-Pink, Red, & White (all areas)","N,P,K",lb of fruit ,90.89,1.1064764,0.087815587,1.525795829,65
+Grapefruit-White (all areas),"N,P,K",lb of fruit ,90.48,1.159663866,0.084033613,1.554621849,65
+Grapefruit-white (California),"N,P,K",lb of fruit ,89.58,1.351247601,0.115163148,1.372360845,65
+Grapefruit-white (Florida),"N,P,K",lb of fruit ,90.76,1.090909091,0.075757576,1.623376623,80
+"Grass + Clover-Red, for hay","N,P,K",ton,11.6,2.272,0.23,1.42,"2,000"
+"Grass + Clover-Red, for hay (full bloom)",N,ton,11.3,2.528,#DIV/0!,#DIV/0!,"2,000"
+"Grass + Clover-Red, for hay (mature)","N,P",ton,8.6,1.776,0.25,#DIV/0!,"2,000"
+"Grass + Clover-Red, for hay (mid bloom)","N,P,K",ton,10.8,2.656,0.23,1.59,"2,000"
+"Grass + Clover-White-Ladino type, for green chop","N,P",ton,80,2.8,0.4,#DIV/0!,"2,000"
+"Grass + Clover-White-Ladino type, for green chop (early bloom)",N,ton,80,2.448,#DIV/0!,#DIV/0!,"2,000"
+"Grass + Clover-White-Ladino type, for hay","N,P,K",ton,11.25,2.918278596,0.227587769,1.962627407,"2,000"
+"Grass + Clover-White-Ladino type, for hay (mature)","N,P,K",ton,8.5,1.808,0.22,1.75,"2,000"
+"Grass, for green chop","N,P,K",ton,72.5,2.503933571,0.256761566,1.969584816,"2,000"
+"Grass, for green chop (early bloom)","N,P,K",ton,71.8,1.644813853,0.228636364,1.330584416,"2,000"
+"Grass, for green chop (mature)","N,P",ton,52.1,0.977023697,0.05,#DIV/0!,"2,000"
+"Grass, for hay","N,P,K",ton,10.9,1.518606742,0.218988764,1.449578652,"2,000"
+"Grass, for hay (early bloom)",P,ton,10.6,#DIV/0!,0.28,#DIV/0!,"2,000"
+"Grass, for hay (full bloom)","N,P,K",ton,10.85,1.536,0.24,1.34,"2,000"
+"Grass, for hay (mature)","N,P",ton,9.57,0.842666667,0.16,#DIV/0!,"2,000"
+"Grass, for silage, (early bloom)","N,P,K",ton,75.1,1.84,0.32,1.88,"2,000"
+Groundcherry,"N,P",lb of fruit,85.4,2.082191781,0.273972603,#DIV/0!,1
+"Guar, for green chop (mature)","N,P,K",ton,80.8,1.904,0.16,1.91,"2,000"
+"Guar, for green chop (pre bloom)",N,ton,80.8,2.56,#DIV/0!,#DIV/0!,"2,000"
+"Guar, for green chop (vegetative)","N,P,K",ton,81,2.336,0.17,1.92,"2,000"
+"Guar, for hay",N,ton,8.05,2.664,#DIV/0!,#DIV/0!,"2,000"
+Guava-Common,"N,P,K",lb of fruit ,86.1,0.943884892,0.179856115,2.043165468,10
+Guava-Strawberry,"N,P,K",lb of fruit ,80.66,0.47983454,0.139607032,1.509824199,10
+Hickory Nut (dry),"N,P,K",lb of nut,2.65,2.090600925,0.345146379,0.447868516,1
+Jackfruit,"N,P,K",lb of fruit,72.23,0.846957148,0.129636298,1.09110551,1
+Java-plum,"N,P,K",lb of fruit,83.13,0.682868998,0.100770599,0.4682869,1
+"Jojoba, for seed",N,lb of seed,4.9,2.368,#DIV/0!,#DIV/0!,1
+Jujube-Common,"N,P,K",lb of fruit,77.86,0.867208672,0.103884372,1.129177958,1
+"Kale, for leaf","N,P,K",lb of leaf,85,3.52,0.373333333,2.666666667,35
+"Kale, for green chop","N,P,K",lb of leaf,88.53,3.398779661,0.529491525,3.03,35
+Kiwi,"N,P,K",lb of fruit ,83.05,0.934513274,0.235988201,1.958702065,125
+Kohlrabi,"N,P,K",lb of stem,91,3.022222222,0.511111111,3.888888889,1
+Kumquat,"N,P,K",lb of fruit ,81.7,0.786885246,0.103825137,1.065573771,22
+Leek,"N,P,K",lb of fruit ,83,1.411764706,0.205882353,1.058823529,20
+Lemon,"N,P,K",lb of fruit ,87.2,1.511904762,0.119047619,1.150793651,79
+"Lentil-Common, for seed","N,P,K",lb of seed,11.33,4.362666667,0.426666667,0.856666667,60
+"Lespedeza-Korean, for hay (early bloom)",N,ton,6.1,2.448,#DIV/0!,#DIV/0!,"2,000"
+"Lespedeza-Korean, for hay (full bloom)","N,P,K",ton,9,2.288,0.24,0.96,"2,000"
+"Lespedeza-Korean, for hay (pre bloom)",N,ton,13,1.984,#DIV/0!,#DIV/0!,"2,000"
+"Lespedeza-Korean, for hay (vegetative)","N,P,K",ton,9.6,2.544,0.21,1.05,"2,000"
+"Lespedeza-Sericea, for hay","N,P,K",ton,10,2.221865471,0.248318386,1.099327354,"2,000"
+"Lespedeza-Sericea, for hay (cut 2)","N,P,K",ton,8.6,2.304,0.23,1.01,"2,000"
+"Lespedeza-Sericea, for hay (cut 3)","N,P,K",ton,8.2,2.416,0.23,0.93,"2,000"
+"Lespedeza-Sericea, for hay (early bloom)","N,P,K",ton,5.4,2.752,0.26,0.69,"2,000"
+"Lespedeza-Sericea, for hay (full boom)","N,P",ton,5.6,2.432,0.22,#DIV/0!,"2,000"
+"Lespedeza-Sericea, for hay (mid bloom)",N,ton,7.2,2.704,#DIV/0!,#DIV/0!,"2,000"
+"Lespedeza-Sericea, for hay (vegetative)","N,P,K",ton,5.8,2.976,0.27,0.99,"2,000"
+"Lespedeza-Sericea, for seed",N,ton,7.7,5.807575298,#DIV/0!,#DIV/0!,100
+"Lespedeza-Striate, for hay","N,P,K",ton,11,2.496,0.29,1.37,"2,000"
+"Lespedeza-Striate, for hay (early bloom)","N,P,K",ton,9,2.608,0.24,1.1,"2,000"
+"Lespedeza-Striate, for hay (full bloom)","N,P,K",ton,10.87,2.264,0.206666667,1.036666667,"2,000"
+"Lespedeza-Striate, for hay (mid bloom)","N,P,K",ton,8,2.016,0.183333333,1.033333333,"2,000"
+"Lespedeza-Striate, for hay (pre bloom)","N,P,K",ton,11.07,2.56,0.266666667,1.213333333,"2,000"
+"Lettuce-Butterhead or Curled, for leaf","N,P,K",lb of leaf,96,4.8,0.775,6.75,50
+"Lettuce-Chrisphead or Iceberg or Great Lakes, for leaf","N,P,K",lb of leaf,95,2.56,0.5,2,50
+"Lettuce-Head, for head","N,P,K",lb of leaf,94.8,3.81,0.48,4.52,50
+"Lettuce-Romaing or Cos, for leaf","N,P,K",lb of leaf,94,4.266666667,0.75,6.666666667,28
+Lime,"N,P,K",lb of fruit ,88.26,0.954003407,0.153321976,0.868824532,80
+Longan,"N,P,K",lb of fruit,82.75,1.215072464,0.12173913,1.542028986,1
+Loquat,"N,P,K",lb of fruit,86.73,0.518462698,0.203466466,2.004521477,1
+Lychee Nut,"N,P,K",lb of fruit ,81.76,0.728070175,0.16995614,0.9375,15
+Macadamia Nut (dry),"N,P,K",lb of nut,2.88,1.36738056,0.140032949,0.378912685,1
+Mammee apple,"N,P,K",lb of fruit,86.2,0.579710145,0.079710145,0.34057971,1
+Mango,"N,P,K",lb of fruit ,81.71,0.446145435,0.060142154,0.852925096,10
+Melon-Canteloupe,"N,P,K",lb of fruit ,89.89,1.488845401,0.362113503,3.161741683,40
+Melon-Casaba,"N,P,K",lb of fruit ,92,1.5,0.0875,2.625,30
+Melon-Honeydew,"N,P,K",lb of fruit ,88.33,0.909745574,0.164801369,2.579675644,30
+Melon-Waternelon,"N,P,K",cwt,90.84,1.113580683,0.112002356,1.333156655,100
+"Millet-Foxtail, for grain","N,P,K",bu,10.62,2.1127641,0.343616723,0.349307894,50
+"Millet-Foxtail, for green chop and silage (late bloom)","N,P,K",ton,72.45,1.594131488,0.18150519,1.94,"2,000"
+"Millet-Foxtail, for hay",N,ton,7,1.582795699,#DIV/0!,#DIV/0!,"2,000"
+"Millet-Foxtail, for straw","N,K",ton,10.67,0.673925926,#DIV/0!,1.6,"2,000"
+"Millet-Pearl, for grain","N,P,K",bu,10.1,2.216,0.375,0.39,50
+"Millet-Pearl, for green chop and silage (milk to soft dough stage)","N,P,K",ton,78.4,1.544,0.26,1.63,"2,000"
+"Millet-Pearl, for hay",N,ton,10.1,1.601779755,#DIV/0!,#DIV/0!,"2,000"
+"Millet-Pearl, for straw","N,K",lb straw/lb grain,10,0.677777778,#DIV/0!,1.6,
+"Millet-Proso, for grain","N,P,K",bu,9.9,2.080332743,0.335464602,0.478554572,56
+"Millet-Proso, for straw","N,K",lb straw/bu grain,10,0.677777778,#DIV/0!,1.6,
+"Mustard, for seed",N,cwt,4.1,3.837330553,#DIV/0!,#DIV/0!,100
+"Mint, for hay (mature)","N,P",ton,12.27,2.336,0.22,#DIV/0!,"2,000"
+Mulberry,"N,P,K",lb of fruit,87.68,1.87012987,0.308441558,1.574675325,1
+Mungbean,"N,P,K",lb of seed,10.23,4.117333333,0.4,1.326666667,1
+Mushroom,"N,P,K",lb of fruit ,92,5.8,1.125,4,10
+"Mustard, for greens (immature leaf)","N,P,K",lb of leaf,91,4.8,0.5,3.777777778,35
+"Mustard, for hay",N,ton,17.5,2.832,#DIV/0!,#DIV/0!,"2,000"
+Natalgrass for hay,"N,P",ton,7.5,0.64,0.345945946,#DIV/0!,"2,000"
+Nectarine,"N,P,K",lb of fruit ,86.28,1.096209913,0.116618076,1.545189504,25
+"Oat, for grain (not including Pacific Coast)","N,P,K",bu,10.67,2.093241724,0.381844621,0.464179601,32
+"Oat, for grain (Pacific coast)","N,P,K",bu,8.87,1.587649123,0.335,0.42,32
+"Oat, for green chop","N,P,K",ton,78.9,2.12,0.24,1.89,"2,000"
+"Oat, for green chop (boot to early bloom)","N,P,K",ton,73.97,1.97593985,0.339448622,1.879899749,"2,000"
+"Oat, for green chop (dough stage)","P,K",ton,70.93,#DIV/0!,0.253333333,1.933333333,"2,000"
+"Oat, for green chop (full bloom)","P,K",ton,67.8,#DIV/0!,0.31,2.07,"2,000"
+"Oat, for green chop (mature)","N,P",ton,72,1.43542857,0.282857145,#DIV/0!,"2,000"
+"Oat, for green chop (vegetative)","N,P",ton,83.68,2.886921987,0.473532241,#DIV/0!,"2,000"
+"Oat, for hay","N,P,K",ton,10.24,1.373104523,0.237019425,1.260527809,"2,000"
+"Oat, for hay (dough stage)","N,P,K",ton,9.1,1.456,0.203333333,1.53,"2,000"
+"Oat, for hay (early bloom)",N,ton,10.9,1.536,#DIV/0!,#DIV/0!,"2,000"
+"Oat, for hay (full bloom)","N,P,K",ton,14.2,1.472,0.35,2.41,"2,000"
+"Oat, for hay (mature)","N,P",ton,8.65,1.232,0.23,#DIV/0!,"2,000"
+"Oat, for hay (milk stage)","N,P",ton,12.1,1.336,0.2,#DIV/0!,"2,000"
+"Oat, for hay (vegetative)","N,P",ton,9.9,2.208,0.43,#DIV/0!,"2,000"
+"Oat, green chop (milk stage)","N,P,K",ton,73.43,1.450586466,0.339172932,2.149849624,"2,000"
+"Oat, straw (not including Pacific coast)","N,P,K",lb straw/bu grain,9.68,0.706193318,0.085055679,2.389292873,
+"Oat, straw (Pacific Coast)","N,P,K",lb straw/bu grain,10.2,0.734966592,0.100222717,2.227171492,
+"Oatgrass-Tall, for hay",N,ton,8.1,1.63656148,#DIV/0!,#DIV/0!,"2,000"
+Ohelogerrie,"N,P,K",lb of fruit,92.3,0.78961039,0.12987013,0.493506494,1
+Okra,"N,P,K",lb of leaf,88,2.666666667,0.525,2.333333333,15
+Okra-Chinese,"N,P",lb of leaf,93,2.742857143,0.457142857,#DIV/0!,15
+Onion-Dry (bulb),"N,P",lb of fruit ,90,2.2,0.26,#DIV/0!,10
+Onion-Dry (bulb) cultivar 'Southport White Globe',"N,P,K",lb of fruit ,86,1.714285714,0.307142857,1.285714286,10
+Onion-Dry (bulb) cultivar 'Sweet Spanish',"N,P,K",lb of fruit ,90,0.8,0.27,1.2,10
+Onion-Green (bulb),"N,P,K",lb of fruit ,90,2.08,0.43,1.2,11
+Onion-Green (leaf),"N,P,K",lb of leaf,92,4,0.375,2.75,11
+Orange (all commercial varieties),"N,P,K",lb of fruit ,84.24,1.182515723,0.12048218,1.366037736,77
+Orange (Florida),"N,P,K",lb of fruit ,87.14,0.870917574,0.093312597,1.314152411,90
+Orange (with peel),"N,P,K",lb of fruit ,82.3,1.175141243,0.124293785,1.107344633,77
+Orange-Navel (California),"N,P,K",lb of fruit ,86.81,1.249431387,0.144048522,1.349507202,77
+Orange-Valencia (California),"N,P,K",lb of fruit ,86.34,1.218155198,1.244509517,1.310395315,77
+"Orchardgrass + Alfalfa, for hay","N,P",ton,9.7,2.479714286,0.267857143,#DIV/0!,"2,000"
+"Orchardgrass + Alfalfa, for hay (cut 1)","N,P,K",ton,7.95,2.144,0.2,1.49,"2,000"
+"Orchardgrass, for green chop","N,P,K",ton,74.13,2.368,0.175,2.635,"2,000"
+"Orchardgrass, for green chop (mature)",N,ton,9.6,1.056,#DIV/0!,#DIV/0!,"2,000"
+"Orchardgrass, for green chop (mid bloom)","N,P,K",ton,72.2,1.537631654,0.202377049,2.09,"2,000"
+"Orchardgrass, for green chop (pre bloom)","N,P,K",ton,73.16,2.304655216,0.411997486,3.42,"2,000"
+"Orchardgrass, for hay","N,P,K",ton,10.83,1.714403608,0.253232807,2.798649944,"2,000"
+"Orchardgrass, for hay (mature)","N,P,K",ton,10.45,1.254326304,0.25,3.69,"2,000"
+"Orchardgrass, for hay (mid bloom)","N,P,K",ton,9.5,1.696,0.45,2.05,"2,000"
+"Orchardgrass, for hay (pre bloom)","N,P,K",ton,12.48,2.393352614,0.46134594,3.823743048,"2,000"
+"Orchardgrass, for hay (vegetative)","N,P,K",ton,9.83,1.438401776,0.336592675,3.825,"2,000"
+Papaya,"N,P,K",lb of fruit ,88.83,0.873769024,0.044762757,2.30080573,10
+Parsley,"N,P,K",lb of leaf,90,3.52,0.4,2.7,21
+Parsnip,"N,P,K",lb of leaf,81,1.010526316,0.363157895,1.736842105,25
+"Passion-Fruit, (purple)","N,P,K",lb of fruit,72.93,1.300332471,0.251200591,1.285555966,1
+"Pea, for straw",N,ton,13.5,1.530666667,#DIV/0!,#DIV/0!,"2,000"
+"Pea, for vine (without pods)",N,ton,75,2,#DIV/0!,#DIV/0!,"2,000"
+Peach (without skin),"N,P,K",lb of fruit ,87.83,0.953808752,0.097244733,1.59643436,25
+"Pea-Chinese, for immature pod with seeds","N,P,K",lb of fruit ,88,3.733333333,0.441666667,1.416666667,30
+"Pea-English, for seed (immature seed)","N,P,K",lb of seed,79,4.495238095,0.523809524,1.238095238,30
+"Pea-Field, for hay","N,P,K",ton,10.93,2.57420178,0.274977604,1.489888018,"2,000"
+"Pea-Field, for silage","N,P,K",ton,73,2.256,0.29,1.4,"2,000"
+"Pea-Field, for seed (dry)","N,P,K",lb of seed,9.03,4.102871003,0.485316979,1.288902977,60
+"Pea-Field, for straw","N,P,K",lb straw/lb grain,11.2,1.335618625,0.110432373,1.198669623,
+"Pea-Flat, for silage (early bloom)","N,P,K",ton,73,4.22,0.37,2.22,"2,000"
+"Pea-Garden, for pod","N,P,K",lb of fruit ,87.1,2.24,0.23,1.4,30
+"Pea-Garden, for seed (dry)","N,P,K",cwt,10.45,4.258871003,0.477816979,1.053902977,100
+"Pea-Garden, for seed (immature seed)","N,P,K",lb of seed,79.5,4.347619048,0.546904762,1.238095238,30
+"Pea-Garden, for straw","N,P,K",ton,11.2,1.335618625,0.110432373,1.198669623,"2,000"
+"Peanut, for fruit (pod with seeds)","N,P,K",lb of fruit,6.82,4.254759672,0.350230252,0.561076869,1
+"Peanut, for hay (dug and with nuts)","N,P,K",ton,8.25,2.331043478,0.156521739,0.921956522,"2,000"
+"Peanut, for hay (dug and without nuts)","N,P,K",ton,9.15,1.747002208,0.186743929,1.379845475,"2,000"
+"Peanut, for hay (mowed)","N,P,K",ton,10.83,1.915489059,0.16,1.38,"2,000"
+"Peanut, for seed only","N,P",lb of seed,7.75,4.856613757,0.402116402,#DIV/0!,1
+"Peanut, for vine only","N,P,K",lb vine/lb fruit,9.45,1.643002208,0.143487859,1.379690949,
+Pear,"N,P,K",lb of fruit ,82.91,0.39271155,0.067943175,0.772081532,23
+"Pea-Shelling, for seed (immature seed)","N,P,K",lb of seed,79,4.495238095,0.523809524,1.238095238,30
+"Pea-Sugar, for immature pod with seeds","N,P,K",lb of fruit ,88,3.733333333,0.441666667,1.416666667,30
+Pecan (dry),N,lb of nut,15,2.8,#DIV/0!,#DIV/0!,1
+Pepper-Bell (green),"N,P,K",lb of fruit ,92.5,2.178571429,0.377142857,2.142857143,30
+Pepper-Bell (red),"N,P,K",lb of fruit ,91,1.422222222,0.311111111,2.222222222,30
+Pepper-Chili (green),"N,P,K",lb of fruit ,86,2.285714286,0.328571429,1.857142857,30
+Pepper-Chili (red),"N,P,K",lb of fruit ,84,2,0.28125,2.625,30
+Pepper-Pimiento,"N,P,K",lb of fruit ,90,1.92,0.2,2.5,30
+Persimmon-Japanese,"N,P,K",lb of fruit ,80.32,0.471544715,0.086382114,0.818089431,22
+Persimmons-Native,"N,P,K",lb of fruit ,64.4,0.359550562,0.073033708,0.870786517,22
+Pineapple,"N,P,K",lb of fruit ,86.5,0.462222222,0.051851852,0.837037037,40
+"Pistachio, for nuts (dry)","N,P,K",lb of nut,3.87,3.42536149,0.523249766,1.137001977,1
+Pitanga,"N,P,K",lb of fruit,90.81,1.392818281,0.119695321,1.12078346,1
+Plantain,"N,P,K",lb of fruit ,65.28,0.599078341,0.097926267,1.437211982,25
+Plum,"N,P,K",lb of fruit ,85.2,0.854054054,0.067567568,1.162162162,30
+Pomegranate (without skin),"N,P,K",lb of fruit ,80.97,0.798738833,0.042038886,1.361008933,22
+Potato-Irish for tuber,"N,P,K",cwt,77.2,1.608220035,0.247037645,1.997419561,100
+"Potato-Irish, for vine","N,P,K",ton,48.9,2.24,0.2,3.95,"2,000"
+"Prairie (Marsh), for hay","N,P,K",ton,11.8,1.584,0.11,0.77,"2,000"
+"Prairie (Meadow), for hay (intermountain area)","N,P",ton,6.5,1.328,0.16,#DIV/0!,"2,000"
+"Prairie, for hay (Colorado, Wyoming)",N,ton,5.5,1.185185185,#DIV/0!,#DIV/0!,"2,000"
+"Prairie, for hay (Kansas, Oklahoma)","N,P",ton,9.5,0.777900552,0.077348066,#DIV/0!,"2,000"
+"Prairie, for hay (Midwest, Minnesota, South Dakota)","N,P,K",ton,10.3,1.054986425,0.132217195,1.08,"2,000"
+"Prairie, for hay (western, early cut)","N,P,K",ton,9,1.296703297,0.208791209,1.076923077,"2,000"
+"Prairie, for hay (western, mature and weathered)","N,P",ton,9.05,0.594272035,0.05632209,#DIV/0!,"2,000"
+"Prairie, for hay (western, mature)","N,P,K",ton,8.1,0.761697497,0.087051143,0.794341676,"2,000"
+"Prairie, for hay (western, mid-season cut)","N,P",ton,8.7,1.051478642,0.13143483,#DIV/0!,"2,000"
+Pricklypear (without skin),"N,P,K",lb of fruit,87.55,0.93815261,0.192771084,1.767068273,1
+Pummelo (without skin),"N,P,K",lb of fruit,89.1,1.11559633,0.155963303,1.981651376,1
+Pumpkin,"N,P,K",lb of fruit ,90.67,2.585038462,0.393653846,2.779038462,1000
+Quince,"N,P,K",lb of fruit ,83.8,0.395061728,0.104938272,1.216049383,22
+"Radish, for root, cultivar 'Icicle'","N,P,K",lb of root,94,2.933333333,0.466666667,4.666666667,35
+"Radish, for root, cultivar 'Scarlet Globe'","N,P,K",lb of root,94,1.866666667,0.45,3.166666667,35
+"Radish-Chinese Winter, for root","N,P,K",lb of root,94,1.6,0.4,3.166666667,35
+Raspberry,"N,P,K",lb of fruit ,86.57,1.084139985,0.089352197,1.13179449,6
+"Redtop, for green chop","N,P,K",ton,73.57,2.032,0.38,2.196666667,"2,000"
+"Redtop, for hay","N,P,K",ton,8.44,1.30737157,0.215376663,1.888991228,"2,000"
+"Redtop, for hay (full bloom)","N,P,K",ton,7,1.504,0.35,1.69,"2,000"
+"Redtop, for hay (late vegetative)","N,P,K",ton,8,2.208,0.15,2.39,"2,000"
+"Redtop, for hay (mature)",N,ton,8.3,0.944,#DIV/0!,#DIV/0!,"2,000"
+"Redtop, for hay (mid bloom)",N,ton,7.2,1.92,#DIV/0!,#DIV/0!,"2,000"
+"Rhubarb, for fruit","N,P,K",lb of fruit,93.61,2.253521127,0.219092332,4.507042254,1
+"Rhubarb, for leaf petiole","N,P,K",lb of leaf,92,1.4,0.25,4.5,15
+"Rice-Rough, for grain","N,P,K",cwt,11.33,1.386730857,0.286220466,0.453220721,100
+"Rice, for straw","N,P,K",lb straw/cwt grain,9.18,0.709101759,0.084112084,1.47722973,
+Rose-apple,"N,P,K",lb of fruit,93,1.371428571,0.114285714,1.757142857,1
+Roselle,"N,P,K",lb of fruit,86.58,1.144560358,0.275707899,1.549925484,1
+Rutabaga,"N,P,K",lb of root,90,1.92,0.41,2.2,1
+"Rye, for grain","N,P,K",bu,11.88,2.139235697,0.379510973,0.518784916,56
+"Rye, for green chop","N,P,K",ton,79.6,2.842666667,0.376666667,3.12,"2,000"
+"Rye, for green chop (dough stage)","N,P",ton,66.6,2.144,0.3,#DIV/0!,"2,000"
+"Rye, for green chop (mature)","N,P",ton,76.6,1.392888889,0.256410256,#DIV/0!,"2,000"
+"Rye, for hay","N,P,K",ton,7.38,1.213701516,0.218438996,1.237513691,"2,000"
+"Rye, for hay (dough stage)",N,ton,6.9,1.68,#DIV/0!,#DIV/0!,"2,000"
+"Rye, for hay (mature)",N,ton,9.1,1.296,#DIV/0!,#DIV/0!,"2,000"
+"Rye, for straw","N,P,K",lb straw/bu grain,9.07,0.504688814,0.09424569,0.969956897,90
+"Ryegrass-Perennial, for green chop","N,P,K",ton,76.88,1.86312782,0.281578947,2.548646617,"2,000"
+"Ryegrass-Perennial, for green chop (early vegetative)","N,P,K",ton,79.13,3.966666667,0.4,3.08,"2,000"
+"Ryegrass-Perennial, for green chop (late vegetative)",N,ton,75,2,#DIV/0!,#DIV/0!,"2,000"
+"Ryegrass-Perennial, for green chop (mid bloom)",N,ton,69.85,1.548,#DIV/0!,#DIV/0!,"2,000"
+"Ryegrass-Perennial, for hay","N,P,K",ton,12.74,1.485349706,0.196247216,1.420227273,"2,000"
+"Ryegrass-Perennial, for hay (early vegetative)",N,ton,8.6,2.24,#DIV/0!,#DIV/0!,"2,000"
+"Ryegrass-Perennial, for hay (late vegetative)",N,ton,15,1.85,#DIV/0!,#DIV/0!,"2,000"
+"Ryegrass-Perennial, for hay (mature)","N,P",ton,14.3,0.888,0.065,#DIV/0!,"2,000"
+"Ryegrass-Perennial, for hay (mid bloom)",N,ton,15,1.3,#DIV/0!,#DIV/0!,"2,000"
+"Safflower, for seed","N,P,K",cwt,7.6,2.672859291,0.6,0.75,100
+"Saltgrass, for hay","N,P",ton,10.77,1.424,0.1,#DIV/0!,"2,000"
+Sapodilla,"N,P,K",lb of fruit,78,0.32,0.054545455,0.877272727,1
+Sapote,"N,P,K",lb of fruit,62.43,0.902848017,0.074527549,0.915624168,1
+"Sesame, for seed","N,P,K",cwt,6.88,3.657367955,0.773623188,0.5,100
+"Smooth Brome + Alfalfa, for green chop","N,P,K",ton,77.63,3.322074074,0.310555556,2.8,"2,000"
+"Smooth Brome + Alfalfa, for hay","N,P,K",ton,11.58,2.41770852,0.271053812,1.897746637,"2,000"
+"Smooth Brome + Alfalfa, for hay (cut 1)","N,P,K",ton,10.1,2.192,0.295,1.4,"2,000"
+"Smooth Brome + Alfalfa, for hay (cut 2)","N,P",ton,10.2,2.192,0.21,#DIV/0!,"2,000"
+"Sorghum, for grain","N,P,K",bu,11.18,1.867377828,0.332736562,0.386734323,56
+"Sorghum, for green chop","N,P,K",ton,76.85,1.368,0.24,2.51,"2,000"
+"Sorghum, for green chop (dough stage)","N,P",ton,72.17,1.162666667,0.21,#DIV/0!,"2,000"
+"Sorghum, for green chop (mid bloom)","N,P,K",ton,75.8,1.424,0.215,1.11,"2,000"
+"Sorghum, for green chop (milk stage)","N,P,K",ton,74.95,1.184963855,0.193493976,1.521927711,"2,000"
+"Sorghum, for silage","N,P,K",ton,71.6,1.012,0.21,1.11,"2,000"
+"Sorghum, for silage (dough stage)","N,P,K",ton,73.9,0.968,0.2,1.11,"2,000"
+"Sorghum, for silage (early bloom)","N,P,K",ton,71.9,0.992,0.2,1.11,"2,000"
+"Sorghum, for silage (mature)","N,P,K",ton,66.1,1.2,0.2,1.11,"2,000"
+"Sorghum, for silage (milk state)","N,P,K",ton,75.2,1.344,0.185,1.145,"2,000"
+"Sorghum, for stover","N,P,K",lb straw/bu grain,8.13,0.67210989,0.12896978,0.73,
+"Sorghum/Sudangrass, for grain",N,bu,8.3,2.330666667,#DIV/0!,#DIV/0!,40
+"Sorghum/Sudangrass, for green chop","N,P,K",ton,78.25,1.848,0.23,2.565,"2,000"
+"Sorghum/Sudangrass, for green chop (early bloom)","N,P,K",ton,76.6,1.28,0.3,1.45,"2,000"
+"Sorghum/Sudangrass, for green chop (full bloom)","N,P,K",ton,74.5,1.410666667,0.3,1.58,"2,000"
+"Sorghum/Sudangrass, for green chop (mature)","N,P,K",ton,70,0.88,0.21,1.82,"2,000"
+"Sorghum/Sudangrass, for green chop (vegetative)","N,P,K",ton,82.05,2.547333333,0.41,2.275,"2,000"
+"Sorghum/Sudangrass, for hay","N,P,K",ton,7.83,1.779429778,0.291143963,2.15,"2,000"
+"Sorghum/Sudangrass, for silage","N,P,K",ton,77,1.638,0.21,2.61,"2,000"
+"Sorghum/Sudangrass, for straw",N,ton,9.6,1.312,#DIV/0!,#DIV/0!,"2,000"
+Soursop,"N,P,K",lb of fruit,81.16,0.8492569,0.143312102,1.475583864,1
+"Soybean, for grain","N,P,K",bu,10.12,6.567758454,0.672763285,1.541666667,60
+"Soybean, for green chop","N,P,K",ton,76.85,2.9395,0.282916667,0.919166667,"2,000"
+"Soybean, for green chop (early bloom)",N,ton,80,2.55,#DIV/0!,#DIV/0!,"2,000"
+"Soybean, for green chop (full bloom)","N,P,K",ton,82.27,2.934923077,0.288461538,1.057692308,"2,000"
+"Soybean, for green chop (mature)","N,P,K",ton,75.8,2.644628099,0.289256198,0.867768595,"2,000"
+"Soybean, for green chop (mid bloom)","N,P,K",ton,78.93,2.774923077,0.289487179,1.059230769,"2,000"
+"Soybean, for hay","N,P,K",ton,10.66,2.571179594,0.244972726,1.105743473,"2,000"
+"Soybean, for hay (early bloom)","N,P",ton,11.23,3.01669697,0.388787879,#DIV/0!,"2,000"
+"Soybean, for hay (full bloom)",N,ton,11.7,2.24,#DIV/0!,#DIV/0!,"2,000"
+"Soybean, for hay (mature)","N,P,K",ton,10.27,2.454363636,0.28469697,0.880909091,"2,000"
+"Soybean, for hay (mid-bloom)","N,P,K",ton,7.1,2.44,0.27,0.97,"2,000"
+"Soybean, for immature seed","N,P,K",lb of seed,73,5.333333333,0.218518519,0.777777778,1
+"Soybean, for straw","N,P,K",lb straw/bu grain,11.07,0.832386256,0.058747657,0.572058493,60
+Spinach,"N,P,K",lb of leaf,90.64,5.2056,0.556,5.6625,32
+Spinach-New Zealand,"N,P,K",lb of leaf,94,4,0.466666667,2.166666667,32
+"Squash Straight neck, for immature fruit (summer)","N,P,K",lb of fruit ,94,2.666666667,0.466666667,3,42
+"Squash-Acorn, for mature fruit (winter)","N,P,K",lb of fruit ,86,0.914285714,0.257142857,3.714285714,50
+"Squash-Balsampear, for immature fruit (summer)","N,P",lb of fruit ,94,2.933333333,0.466666667,#DIV/0!,42
+"Squash-Butternut, for mature fruit (winter)","N,P,K",lb of fruit ,85,1.066666667,0.22,2.666666667,50
+"Squash-Chinese wintermelon, for mature fruit (winter)","N,P,K",lb of fruit ,96,0.8,0.175,5,50
+"Squash-Chinese, for immature fruit (summer)","N,P",lb of fruit ,94,2.666666667,0.383333333,#DIV/0!,42
+"Squash-Crockneck, for immature fruit (summer)","N,P,K",lb of fruit ,92,2.8,0.475,2.375,42
+"Squash-Hubbard, for mature fruit (winter)","N,P,K",lb of fruit ,88,2.666666667,0.175,2.666666667,50
+"Squash-Pink Banana, for mature fruit (winter)","N,P,K",lb of fruit ,91,3.555555556,0.422222222,3.666666667,50
+"Squash-Scallop, for immature fruit (summer)","N,P,K",lb of fruit ,93,2.742857143,0.514285714,2.142857143,42
+"Squash-Zucchini, for immature fruit (summer)","N,P,K",lb of fruit ,95,3.84,0.64,4.4,42
+Strawberry,"N,P,K",lb of fruit ,91.28,1.253884935,0.213523132,1.96915777,32
+Sugar apple,"N,P,K",lb of fruit,73.23,1.231228988,0.119536795,0.922674636,1
+"Sugarbeet, root with crown","N,P,K",ton,80.3,1.342682927,0.243902439,1.524390244,2000
+"Sugarbeet, root without crown","N,P,K",ton,79.28,1.052,0.2175,1.543333333,2000
+"Sugarbeet, top with crown","N,P,K",ton,83.03,2.433333333,0.225,5.79,2000
+"Sugarbeet, top without crown","N,P,K",ton,82.1,2.457865169,0.224719101,5.786516854,2000
+"Sugarcane, cane top + trash","N,P,K",ton,73.83,0.866,0.235,2.96,2000
+"Sugarcane, millable cane (less than 12 month crop)","N,P,K",ton,35,0.088466667,0.020826667,0.229666667,2000
+"Sugarcane, millable cane and trash (less than 12 month crop)","N,P,K",ton,35,0.111,0.016,0.167,2000
+"Sunflower, for seed (with hull, confection type)","N,P,K",cwt,7.36,3.130988604,0.619111111,0.733025641,100
+"Sunflower, for seed (with hull, oil type)","N,P,K",cwt,7.36,2.993186325,0.626388889,0.718782051,100
+"Sunflower, for stover (yield less than 500 lb/acre)","N,P,K",lb stover/cwt fruit,13.3,0.86,0.11,1.94,
+"Sunflower, for stover (yield more than 500 lb/acre)","N,P,K",lb stover/cwt fruit,13.3,0.86,0.11,1.94,
+"Sweet Potato, for root","N,P,K",lb of root,68.85,0.909181818,0.150984848,1.036767677,40
+"Sweet Potato, for vine",N,ton,78.1,2.048,#DIV/0!,#DIV/0!,"2,000"
+"Sweetclover, for green chop","N,P,K",ton,75,2.874,0.27,1.65,"2,000"
+"Sweetclover, for green chop (full bloom)","N,P,K",ton,67.3,2.688,0.22,1.44,"2,000"
+"Sweetclover, for green chop (mid bloom)","N,P,K",ton,70.8,2.688,0.24,1.44,"2,000"
+"Sweetclover, for green chop (pre bloom)","N,P",ton,79.2,3.152,0.48,#DIV/0!,"2,000"
+"Sweetclover, for green chop (vegetative)","N,P,K",ton,80.3,3.472,0.44,2.95,"2,000"
+"Sweetclover, for hay","N,P,K",ton,10.42,2.649712335,0.236055109,1.652559913,"2,000"
+"Sweetclover, for hay (early bloom)",N,ton,17.4,2.768,#DIV/0!,#DIV/0!,"2,000"
+"Sweetclover, for hay (full bloom)",N,ton,11.1,2.064,#DIV/0!,#DIV/0!,"2,000"
+"Sweetclover, for hay (mature)","N,P,K",ton,8.95,1.824,0.185,0.8,"2,000"
+"Sweetclover, for hay (vegetative)","N,P,K",ton,9.8,2.576,0.295,1.78,"2,000"
+"Sweetclover, for seed",N,cwt,7.8,6.490950109,#DIV/0!,#DIV/0!,100
+"Sweetclover, for silage","N,P,K",ton,70.7,2.857055928,0.21,1.955,"2,000"
+"Sweetclover, for silage (early bloom)","N,P,K",ton,72.8,3.424,0.25,1.95,"2,000"
+"Sweetclover, for silage (full bloom)","N,P,K",ton,68.6,2.992,0.235,1.695,"2,000"
+"Sweetclover, for silage (pre bloom)","N,P,K",ton,65.2,3.44,0.25,1.95,"2,000"
+"Switchgrass, for green chop","N,P",ton,44.85,0.944,0.09,#DIV/0!,"2,000"
+"Switchgrass, for green chop ( mature)","N,P,K",ton,58.07,0.81631746,0.15,1.97,"2,000"
+"Switchgrass, for green chop (full bloom)","N,P",ton,60.4,1.008,0.12,#DIV/0!,"2,000"
+"Switchgrass, for green chop (over ripe)","N,P",ton,23.3,0.304,0.05,#DIV/0!,"2,000"
+"Switchgrass, for green chop (vegetative)","N,P,K",ton,67.27,1.642805195,0.215,2.85,"2,000"
+Tamarind,"N,P,K",lb of fruit,31.4,0.653061224,0.164723032,0.915451895,1
+Tangerine,"N,P,K",lb of fruit ,87.6,0.812903226,0.080645161,1.266129032,43
+"Taro, for corm","N,P",lb of corm,72,0.864,0.265,#DIV/0!,10
+"Taro-Pink, for corm","N,P,K",lb of corm,80,0.8,0.535,2.5,10
+"Taro-White, for corm","N,P,K",lb of corm,82,1.777777778,0.333333333,3.944444444,10
+"Timothy + Alfalfa, for green chop (50% alfalfa)","N,P,K",ton,78.08,3.364748858,0.368824201,2.239360731,"2,000"
+"Timothy + Alfalfa, for hay","N,P,K",ton,10.37,2.172886905,0.211071429,2.16,"2,000"
+"Timothy + Alfalfa, for hay (cut 1)","N,P",ton,9.8,1.792,0.14,#DIV/0!,"2,000"
+"Timothy + Alfalfa, for hay (cut 2)","N,P",ton,9,2.8,0.21,#DIV/0!,"2,000"
+"Timothy + Clover, for hay","N,P,K",ton,11.1,1.488,0.17,1.81,"2,000"
+"Timothy + Clover-Red, for hay","P,K",ton,9.6,#DIV/0!,0.17,1.52,"2,000"
+"Timothy + Clover-White-Ladino type, for silage","N,P,K",ton,70.6,3.168,0.2,2.22,"2,000"
+"Timothy, for green chop","N,P,K",ton,72.4,2.048,0.38,2.09,"2,000"
+"Timothy, for green chop (early to mid bloom)","N,P,K",ton,73.05,1.578,0.3,2.06,"2,000"
+"Timothy, for green chop (late bloom)","N,P,K",ton,73.65,1.065,0.21,1.68,"2,000"
+"Timothy, for green chop (mature)","N,P,K",ton,69.6,0.963,0.18,1.57,"2,000"
+"Timothy, for green chop (vegetative)","N,P,K",ton,74.45,2.406,0.43,2.54,"2,000"
+"Timothy, for hay","N,P,K",ton,9.48,1.200544551,0.167447757,1.629129214,"2,000"
+"Timothy, for hay (full bloom)","N,P,K",ton,12.2,1.205213483,0.233679775,1.826348315,"2,000"
+"Timothy, for hay (mature)","N,P,K",ton,13.08,0.952264045,0.169513109,1.588089888,"2,000"
+"Timothy, for hay (mid bloom)","N,P,K",ton,11.96,1.540957303,0.221488764,1.82,"2,000"
+"Timothy, for hay (pre bloom)","N,P,K",ton,12.28,2.052714607,0.4,3.05,"2,000"
+"Timothy, for hay (vegetative)","N,P,K",ton,13.65,2.25,0.34,1.9,"2,000"
+"Timothy, for silage","N,P,K",ton,66.7,1.697070119,0.290315534,1.685711974,"2,000"
+"Timothy, for silage (boot)","N,P,K",ton,66.3,1.5,0.24,1.59,"2,000"
+"Timothy, for silage (early bloom)","N,P,K",ton,63.7,1.632,0.29,1.69,"2,000"
+"Timothy, for silage (full bloom)","N,P,K",ton,64.3,1.552,0.29,1.69,"2,000"
+"Timothy, for silage (milk stage)","N,P,K",ton,58.5,1.344,0.29,1.69,"2,000"
+"Timothy, for silage (pre bloom)","N,P,K",ton,73.1,1.92,0.29,1.69,"2,000"
+"Timothy, for silage (vegetative)","N,P,K",ton,70.3,1.872,0.32,1.69,"2,000"
+"Tobacco-Air cured, Burley type","N,P,K",cwt,25,4,0.312,3.86,100
+"Tobacco-Air cured, Havana Seed type","N,P,K",cwt,78.5,3.85,0.173,2.9,100
+"Tobacco-Air cured, Maryland Broadleaf  type",N,cwt,18,3.1,#DIV/0!,#DIV/0!,100
+Tobacco-Flue-cured,"N,P,K",cwt,20,2.133,0.2725,1.989,100
+Tomato,"N,P,K",lb of fruit ,94,2.558023392,0.471052632,4.278701754,10
+"Trefoil-Birdsfoot, for green chop","N,P,K",ton,80.13,3.162666667,0.24,2.786666667,"2,000"
+"Trefoil-Birdsfoot, for green chop (early bloom)",N,ton,75,3.2,#DIV/0!,#DIV/0!,"2,000"
+"Trefoil-Birdsfoot, for green chop (mid bloom to full bloom)","N,P,K",ton,78,2.63,0.27,2.98,"2,000"
+"Trefoil-Birdsfoot, for hay","N,P,K",ton,9.97,2.517333333,0.226666667,1.886666667,"2,000"
+"Trefoil-Birdsfoot, for hay (early bloom)",N,ton,12.8,3.11,#DIV/0!,#DIV/0!,"2,000"
+"Trefoil-Birdsfoot, for hay (mid bloom to full bloom)",N,ton,10.7,2.252,#DIV/0!,#DIV/0!,"2,000"
+"Triticale, for grain","N,P,K",bu,10.95,2.453661029,0.34,0.57,48
+"Turnip, for green chop","N,P,K",ton,86.53,3.298,0.4225,3.015,"2,000"
+"Turnip, for green chop","N,P,K",lb of leaf,87.3,3.488,0.51,3,1
+"Turnip, for root","N,P,K",lb of root,91.06,2.242012903,0.318758961,2.732139785,50
+"Vetch, for seed","N,P",lb of seed,9.55,4.608,0.59,#DIV/0!,1
+"Vetch-Common, for green chop","N,P,K",ton,79.7,2.983098039,0.331045752,2.5,"2,000"
+"Vetch-Common, for green chop (early bloom)","N,P,K",ton,75,3.7,0.26,3.15,"2,000"
+"Vetch-Common, for green chop (full bloom)","N,P,K",ton,75,3,0.35,2.51,"2,000"
+"Vetch-Common, for hay","N,P,K",ton,12.2,2.596629214,0.359850187,2.238127341,"2,000"
+"Vetch-Common, for hay (early bloom)",N,ton,16,3.552,#DIV/0!,#DIV/0!,"2,000"
+"Vetch-Common, for hay (full bloom)",N,ton,14.7,2.938,#DIV/0!,#DIV/0!,"2,000"
+"Vetch-Hairy, for green chop (mid bloom)","N,P,K",ton,78.25,3.754,0.33,2.25,"2,000"
+"Vetch-Hairy, for hay","N,P,K",ton,12.1,3.679821555,0.35628692,2.228636364,"2,000"
+"Vetch-Hairy, for hay (vegetative)","N,P,K",ton,11.5,3.616,0.36,2.09,"2,000"
+"Walnut-Black, for seed extracted from nut","N,P,K",lb of nut,4.36,4.073609369,0.485152656,0.547887913,1
+Walnut-English or Persian,"N,P,K",lb of nut,3.65,2.373015049,0.329008822,0.521017125,1
+"Wheat, for green chop","N,P",ton,73.55,2.336,0.31,#DIV/0!,"2,000"
+"Wheat, for green chop (milk stage)",N,ton,73.4,1.92,#DIV/0!,#DIV/0!,"2,000"
+"Wheat, for hay","N,P,K",ton,11.3,1.251017699,0.197278761,1.204026549,"2,000"
+"Wheat, for hay (dough stage)",N,ton,17.45,1.28,#DIV/0!,#DIV/0!,"2,000"
+"Wheat, for hay (mature)","N,P",ton,12.75,1.232,0.2,#DIV/0!,"2,000"
+"Wheat, for hay (milk stage)",N,ton,15.7,1.456,#DIV/0!,#DIV/0!,"2,000"
+"Wheat-Bread-Hard Red Spring, for grain","N,P,K",bu,11.45,2.703995561,0.434650388,0.41,60
+"Wheat-Bread-Hard Red Winter, for grain","N,P,K",bu,11.68,2.303221477,0.434949664,0.486666667,60
+"Wheat-Bread-Soft Red Winter, for grain","N,P,K",bu,11.44,1.943870852,0.373778027,0.453333333,60
+"Wheat-Bread-Soft White Winter, for grain","N,P,K",bu,11.41,1.800168256,0.368823612,0.486666667,60
+"Wheat-Durum, for grain","N,P,K",bu,11.83,2.432,0.423333333,0.503333333,60
+"Wheatgrass, for green chop",N,ton,55.4,1.392,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass, for green chop (mature)",N,ton,39.5,1.44,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass, for green chop part (early bloom)",N,ton,63.4,1.456,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass, for hay","N,P",ton,8.37,1.343486506,0.07,#DIV/0!,"2,000"
+"Wheatgrass, for hay (early bloom)","N,P,K",ton,8,1.376,0.27,2.67,"2,000"
+"Wheatgrass, for hay (late bloom)",N,ton,10.2,0.848,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass, for hay (mature)","N,P",ton,9.6,0.848,0.1,#DIV/0!,"2,000"
+"Wheatgrass-Bluebunch, for hay (over ripe)",N,ton,11.1,0.544,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Crested, for green chop","N,P,K",ton,54.25,1.872,0.14,1.72,"2,000"
+"Wheatgrass-Crested, for green chop (early bloom)","N,P",ton,62.4,1.541333333,0.18,#DIV/0!,"2,000"
+"Wheatgrass-Crested, for green chop (full bloom)","N,P,K",ton,61.27,1.188437218,0.15,1.04,"2,000"
+"Wheatgrass-Crested, for green chop (mature)","N,P,K",ton,44.7,1.000833333,0.145833333,1.04,"2,000"
+"Wheatgrass-Crested, for hay","N,P",ton,7.85,1.528,0.15,#DIV/0!,"2,000"
+"Wheatgrass-Crested, for hay (early bloom)","N,P",ton,13.03,1.904444444,0.27,#DIV/0!,"2,000"
+"Wheatgrass-Crested, for hay (full bloom)","N,P",ton,12.55,1.396,0.16,#DIV/0!,"2,000"
+"Wheatgrass-Crested, for hay (mature)","N,P",ton,10.6,0.776,0.09,#DIV/0!,"2,000"
+"Wheatgrass-Crested, for hay (mid bloom)",N,ton,3.6,1.832,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Intermediate, for hay","N,P,K",ton,9.95,1.303407407,0.19,1.65,"2,000"
+"Wheatgrass-Slender, for hay","N,P,K",ton,8.93,1.396740741,0.254166667,2.679444444,"2,000"
+"Wheatgrass-Slender, for hay (early bloom)",N,ton,5.4,1.936,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Slender, for hay (full bloom)",N,ton,6.8,1.472,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Slender, for hay (vegetative)",N,ton,7.1,2.88,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Tall, for hay",N,ton,11,1.264,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Thickspike, for hay",N,ton,8,1.2,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Western, for hay","N,P",ton,10.85,1.376,0.25,#DIV/0!,"2,000"
+"Wheatgrass-Western, for hay (full bloom)",N,ton,6.6,1.376,#DIV/0!,#DIV/0!,"2,000"
+"Wheatgrass-Western, for hay (mature)","N,P",ton,10.1,0.736,0.08,#DIV/0!,"2,000"
+"Wheatgrass-Western, for hay (vegetative)","N,P",ton,11.8,1.92,0.21,#DIV/0!,"2,000"
+"Wheat-Spelt, for grain","N,P",bu,10.17,2.128,0.42,#DIV/0!,40
+"Wheat-Spelt, for straw",N,lb straw/bu grain,17.25,0.528,#DIV/0!,#DIV/0!,
+"Wheat-Spring including Durum, for straw","N,P,K",lb straw/bu grain,9.22,0.63895731,0.063898488,1.173574514,
+"Wheat-Winter, for straw","N,P,K",lb straw/bu grain,9.22,0.63895731,0.063898488,1.173574514,
+"Wildrice, for grain","N,P,K",lb of caryopsis,37.5,2.64432,0.4995,0.489,1
+"Wildrice, for straw","N,P,K",lb straw/lb grain,9.2,0.809,0.11,0.788,
+Yam,"N,P,K",lb of tuber,74,1.107692308,0.25,2.307692308,50
+Barbados Cherry,"N,P,K",lb of fruit,91.41,0.745052387,0.128055879,1.699650757,1
